@@ -1,0 +1,6 @@
+D:\VS Codes\boolean_operators\boolean_operators\bin\Debug\boolean_operators.exe.config
+D:\VS Codes\boolean_operators\boolean_operators\bin\Debug\boolean_operators.exe
+D:\VS Codes\boolean_operators\boolean_operators\bin\Debug\boolean_operators.pdb
+D:\VS Codes\boolean_operators\boolean_operators\obj\Debug\boolean_operators.csprojResolveAssemblyReference.cache
+D:\VS Codes\boolean_operators\boolean_operators\obj\Debug\boolean_operators.exe
+D:\VS Codes\boolean_operators\boolean_operators\obj\Debug\boolean_operators.pdb
