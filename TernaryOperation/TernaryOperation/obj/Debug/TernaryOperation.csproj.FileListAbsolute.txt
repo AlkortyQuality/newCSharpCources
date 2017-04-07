@@ -1,0 +1,5 @@
+D:\VS Codes\TernaryOperation\TernaryOperation\bin\Debug\TernaryOperation.exe.config
+D:\VS Codes\TernaryOperation\TernaryOperation\bin\Debug\TernaryOperation.exe
+D:\VS Codes\TernaryOperation\TernaryOperation\bin\Debug\TernaryOperation.pdb
+D:\VS Codes\TernaryOperation\TernaryOperation\obj\Debug\TernaryOperation.exe
+D:\VS Codes\TernaryOperation\TernaryOperation\obj\Debug\TernaryOperation.pdb
