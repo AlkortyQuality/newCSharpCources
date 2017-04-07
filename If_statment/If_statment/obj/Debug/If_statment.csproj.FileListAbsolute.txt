@@ -1,0 +1,6 @@
+D:\VS Codes\If_statment\If_statment\bin\Debug\If_statment.exe.config
+D:\VS Codes\If_statment\If_statment\bin\Debug\If_statment.exe
+D:\VS Codes\If_statment\If_statment\bin\Debug\If_statment.pdb
+D:\VS Codes\If_statment\If_statment\obj\Debug\If_statment.csprojResolveAssemblyReference.cache
+D:\VS Codes\If_statment\If_statment\obj\Debug\If_statment.exe
+D:\VS Codes\If_statment\If_statment\obj\Debug\If_statment.pdb
